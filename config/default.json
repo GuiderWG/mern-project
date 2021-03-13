@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "guider mern",
+  "mongoUri": "mongodb+srv://guider:Wg4815162342@cluster0.jc1rx.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
